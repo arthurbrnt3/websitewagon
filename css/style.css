@@ -1,0 +1,14 @@
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/cards.css");
+
+
+body {
+  background-color: #0E7ACA;
+  color: #0E7ACA;
+}
+a {
+  text-decoration: none;
+}

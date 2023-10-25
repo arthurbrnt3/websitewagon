@@ -1,0 +1,17 @@
+.banner {
+  background-image: url(https://images.ctfassets.net/h8qzhh7m9m8u/2ZSaicFRzgcs9iFTu4uy1K/edc576cd9064806f9263b17c5bbc6704/2100x1200_header_France.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 150px;
+}
+
+.banner h1 {
+  color: #0E7ACA;
+  font-size: 32px;
+  font-weight: 800;
+}
+
+p {
+  color: #0E7ACA;
+  font-size: 25px;
+}

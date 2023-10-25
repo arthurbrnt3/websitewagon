@@ -1,0 +1,19 @@
+.card {
+  background: white;
+  display: flex;
+	margin: 20px;
+  height: 200px;
+}
+.card img {
+  width: 150px;
+  border-radius: 20px;
+}
+.card h3 {
+  margin-left: 20px;
+}
+
+.cards {
+  display: flex;
+	flex-wrap: wrap;
+  justify-content: center;
+}
